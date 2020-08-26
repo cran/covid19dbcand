@@ -9,8 +9,8 @@ General categorizations of the drug}
 a tibble with 3 variables:
 \describe{
   \item{category}{Category name}
-  \item{mesh-id}{\href{https://www.nlm.nih.gov/mesh/}{The Medical Subjects
-  Headings (MeSH)} identifier for the category.}
+  \item{mesh-id}{The Medical Subjects
+  Headings (MeSH) identifier for the category.}
   \item{parent_id}{drugbank id}
 }
 }

@@ -9,15 +9,15 @@ a tibble with 9 variables:
 \describe{
   \item{protein-name}{Proteins involved in this SNP.}
   \item{gene-symbol}{Genes involved in this SNP.}
-  \item{uniprot-id}{\href{http://www.uniprot.org/}{Universal Protein 
+  \item{uniprot-id}{\href{https://www.uniprot.org/}{Universal Protein
   Resource (UniProt)} identifiers for proteins involved in this pathway.}
-  \item{rs-id}{The \href{https://www.ncbi.nlm.nih.gov/projects/SNP/}{SNP 
+  \item{rs-id}{The \href{https://www.ncbi.nlm.nih.gov/projects/SNP/}{SNP
   Database} identifier for this single nucleotide polymorphism.}
   \item{allele}{The alleles associated with the identified SNP.}
   \item{adverse-reaction}{}
   \item{description}{}
   \item{pubmed-id}{Reference to PubMed article.}
-  \item{parent_key}{\href{http://www.ncbi.nlm.nih.gov/pubmed}{drugbank id}}
+  \item{parent_key}{\href{https://www.ncbi.nlm.nih.gov/}{drugbank id}}
 }
 }
 \source{
@@ -27,7 +27,7 @@ a tibble with 9 variables:
 SNP_Adverse_Drug_Reactions_Drug
 }
 \description{
-The adverse drug reactions that may occur as a result of the listed single 
+The adverse drug reactions that may occur as a result of the listed single
 nucleotide polymorphisms (SNPs).
 }
 \details{

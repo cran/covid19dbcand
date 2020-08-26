@@ -9,14 +9,14 @@ a tibble with 9 variables:
 \describe{
   \item{protein-name}{Proteins involved in this SNP.}
   \item{gene-symbol}{Genes involved in this SNP.}
-  \item{uniprot-id	}{\href{http://www.uniprot.org/}{Universal Protein 
-  Resource (UniProt)} identifiers for 
+  \item{uniprot-id	}{\href{https://www.uniprot.org/}{Universal Protein
+  Resource (UniProt)} identifiers for
   proteins involved in this pathway.}
   \item{rs-id}{The \href{https://www.ncbi.nlm.nih.gov/projects/SNP/}{SNP
    Database} identifier for this single nucleotide polymorphism.}
   \item{allele}{The alleles associated with the identified SNP.}
   \item{defining-change}{A written description of the SNP effects.}
-  \item{pubmed-id}{Reference to \href{http://www.ncbi.nlm.nih.gov/pubmed}{
+  \item{pubmed-id}{Reference to \href{https://www.ncbi.nlm.nih.gov}{
   PubMed} article}
   \item{description}{A written description of the SNP effects}
   \item{parent_key}{drugbank id}
@@ -30,8 +30,8 @@ SNP_Effects_Drug
 }
 \description{
 A list of single nucleotide polymorphisms (SNPs) relevant to drug activity or
- metabolism, and the effects these may have on pharmacological activity. 
- SNP effects in the patient may require close monitoring, an increase or 
+ metabolism, and the effects these may have on pharmacological activity.
+ SNP effects in the patient may require close monitoring, an increase or
  decrease in dose, or a change in therapy.
 }
 \details{

@@ -17,15 +17,15 @@ a tibble with following features:
   \item{parent_key}{drugbank key}
 }
 
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 186 rows and 3 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 232 rows and 3 columns.
 
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 12 rows and 3 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 0 rows and 3 columns.
 
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 156 rows and 3 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 0 rows and 3 columns.
 
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 203 rows and 3 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 0 rows and 3 columns.
 
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 102 rows and 3 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 0 rows and 3 columns.
 }
 \source{
 \href{https://docs.drugbankplus.com/xml/}{Drugbank Documentation}
@@ -51,7 +51,7 @@ Each drug may have one or more external identifier.
 Drug identifiers may be provided for the following resources
 \itemize{
   \item \href{https://www.wikipedia.org/}{Wikipedia}
-  \item \href{http://www.ebi.ac.uk/chebi/}{ChEBI}
+  \item \href{https://www.ebi.ac.uk/chebi/}{ChEBI}
   \item \href{https://www.ebi.ac.uk/chembl/}{ChEMBL}
   \item \href{https://pubchem.ncbi.nlm.nih.gov/}{PubChem Compound}
   \item \href{https://pubchem.ncbi.nlm.nih.gov/}{PubChem Substance}
@@ -60,14 +60,14 @@ Drug identifiers may be provided for the following resources
   \item \href{https://www.genome.jp/kegg/compound/}{KEGG Compound}
   \item \href{https://www.genome.jp/kegg/drug/}{KEGG Compound}
   \item \href{https://www.genome.jp/kegg/drug/}{KEGG Drug}
-  \item \href{https://www.chemspider.com/}{ChemSpider}
+  \item ChemSpider
   \item \href{https://bindingdb.org/}{BindingDB}
   \item \href{https://dailymed.nlm.nih.gov/}{National Drug Code Directory}
   \item \href{https://www.ncbi.nlm.nih.gov/genbank/}{GenBank}
-  \item \href{https://www.pharmgkb.org/}{PharmGKB}
+  \item PharmGKB
   \item \href{https://www.rcsb.org/}{PDB}
   \item \href{https://www.guidetopharmacology.org/}{Guide to Pharmacology}
-  \item \href{https://zinc15.docking.org/}{ZINC}
+  \item ZINC
   \item \href{https://www.nlm.nih.gov/research/umls/rxnorm/index.html}{RxCUI}
 }
 }
